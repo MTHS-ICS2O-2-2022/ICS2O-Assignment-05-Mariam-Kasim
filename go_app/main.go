@@ -22,11 +22,11 @@ func main() {
 	// process
 	for counter <= number1 {
 		total += counter
-		counter = counter++
+		counter = counter;++
 	}
 
 	// output
 	fmt.Println("")
 	fmt.Println("The sum of all positive numbers from 0 to", number1, "is", total)
-	fmt.Println("\nDone.")
+	fmt.Println("\nDone.") 
 }
