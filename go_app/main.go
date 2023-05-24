@@ -22,7 +22,7 @@ func main() {
 	// process
 	for counter <= number1 {
 		total += counter
-		counter = counter ++
+		counter = counter++
 	}
 
 	// output
