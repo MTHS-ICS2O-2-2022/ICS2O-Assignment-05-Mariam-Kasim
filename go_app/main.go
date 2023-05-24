@@ -21,8 +21,8 @@ func main() {
 
 	// process
 	for counter <= number1 {
-		total = total + counter
-		counter = counter + 1
+		total += counter
+		counter = counter ++
 	}
 
 	// output
