@@ -29,4 +29,4 @@ func main() {
 	fmt.Println("")
 	fmt.Println("The sum of all positive numbers from 0 to", number1, "is", total)
 	fmt.Println("\nDone.") 
-}
+  }
